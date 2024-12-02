@@ -22,6 +22,7 @@ public class Git_2024216 {
         2.- Publish it to GitHub. PUBLIC
         3.- Add a line of code to your project with a simple output.
         */
+         System.out.println("Student Name: Sara Arellano. Student ID: 2024216");
     }
     
 }
